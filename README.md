@@ -32,5 +32,3 @@ Jetson Orin에서 실행되는 DQN(Deep Q-Network) 기반 자율주행 RC카 시
 - NumPy
 - psutil
 
-## 설치 방법
-
